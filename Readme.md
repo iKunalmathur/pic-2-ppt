@@ -12,7 +12,7 @@ pip install python-pptx
 
 2 : ImageMagick
 
-[Installation Guide]("https://docs.wand-py.org/en/0.6.7/guide/install.html#install-imagemagick-on-windows")
+[Installation Guide](https://docs.wand-py.org/en/0.6.7/guide/install.html#install-imagemagick-on-windows)
 
 3: Wand - an ImageMagick binding
 
